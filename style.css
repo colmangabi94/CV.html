@@ -1,0 +1,10 @@
+.contenedor {
+    max-width: 50%;
+    margin: 0 auto;
+
+}
+.border {
+    border-color: solid 3px;
+    color: rgb(38, 0, 255); 
+
+}
